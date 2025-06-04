@@ -1,0 +1,4 @@
+baseURL = 'https://mysticaldogmatics.github.io/'
+languageCode = 'en-au'
+title = 'Mystical Dogmatics'
+theme = 'hugo-bearblog'
