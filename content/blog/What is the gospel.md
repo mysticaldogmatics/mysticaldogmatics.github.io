@@ -17,7 +17,7 @@ This brief text explores the meaning of the word "Gospel". We start by showing h
 
 The word "gospel" from the Greek "εὐαγγέλιον", which means "good news". In Jesus' time, this word was commonly known. The gospel was the message that the emperor brought peace (i.e. conquered militarily) to some land. Of course that wasn't good news for the conquered people, such as the Jews.
 
-![Calendar Inscription of Priene](static/images/202309101225_Calendar_Inscription_of_Priene.bmp)
+![Calendar Inscription of Priene](https://upload.wikimedia.org/wikipedia/commons/2/24/Priene_Calendar_Inscription_II%2C_32-60.png)
 
 But those who read the Hebrew Bible in Greek (a translation known as the Septuagint) knew another reference of the word "εὐαγγέλιον": the book of Isaiah. In Isaiah 52:7 we read:
 
@@ -49,7 +49,7 @@ Having clarified the definition of the Gospel, let us consider two fundamental t
 
 ### Cosmic Restoration (Apokatastasis)
 
-![The Harrowing of Hell](<images/202309101430_The_Harrowing_of_Hell.bmp>)
+![The Harrowing of Hell](https://upload.wikimedia.org/wikipedia/commons/8/8e/Anastasis_at_Chora.jpg)
 
 One of the most beautiful passages of the New Testament, which helps us grasp the meaning of the Gospel is Ephesians 1:9-10:
 
@@ -63,7 +63,7 @@ The obvious must be clearly stated. "All things" does not mean "some things". Go
 
 ### Deification (Apotheosis)
 
-![The Ladder of Divine Ascent](<images/202309101434_The_Ladder_of_Divine_Ascent.bmp>)
+![The Ladder of Divine Ascent](https://upload.wikimedia.org/wikipedia/commons/5/5c/The_Ladder_of_Divine_Ascent_Monastery_of_St_Catherine_Sinai_12th_century.jpg)
 
 Another important theme in the Gospel is deification, which is often referred to by the Church Fathers as "theosis". In 1 John 4:16, for example, it is written "those who abide in love abide in God, and God abides in them."
 
