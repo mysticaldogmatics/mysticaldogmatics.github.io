@@ -1,6 +1,7 @@
 +++
 title = "What is the Gospel?"
 date = "2023-12-08"
+meta_image = "https://upload.wikimedia.org/wikipedia/commons/8/8e/Anastasis_at_Chora.jpg"
 description = "This brief text explores the meaning of the word Gospel. We start by showing how this word was used in the first century, then explore its meaning in the New Testament, and close by making some remarks about its misuse."
 tags = [
     "gospel",

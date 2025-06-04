@@ -2,6 +2,7 @@
 title = "The Spiritual Quest for a Second Brain"
 date = "2025-06-03"
 description = "Second Brains and Productivity systems as a spiritual aspiration."
+meta_image = "https://upload.wikimedia.org/wikipedia/commons/1/16/Memling%2C_Trittico_di_Benedetto_Portinari%2C_San_Benedetto.jpg"
 tags = [
     "spirituality",
 ]
