@@ -1,11 +1,13 @@
----
-title: "What is the Gospel?"
-link: what-is-the-gospel
-published_date: 2023-12-08
-is_page: false
-make_discoverable: true
-meta_description: "This brief text explores the meaning of the word Gospel. We start by showing how this word was used in the first century, then explore its meaning in the New Testament, and close by making some remarks about its misuse."
----
++++
+title = "What is the Gospel?"
+date = "2023-12-08"
+description = "This brief text explores the meaning of the word Gospel. We start by showing how this word was used in the first century, then explore its meaning in the New Testament, and close by making some remarks about its misuse."
+tags = [
+    "gospel",
+    "apokatastasis",
+    "theosis",
+]
++++
 
 ## Introduction
 
