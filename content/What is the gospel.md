@@ -1,3 +1,7 @@
++++
+title = "What is the Gospel?"
++++
+
 # What is the Gospel?
 
 ## Introduction
@@ -10,7 +14,7 @@ The word "gospel" from the Greek "εὐαγγέλιον", which means "good news
 
 ![Calendar Inscription of Priene](202309101225_Calendar_Inscription_of_Priene.bmp)
 
-But those who read the Hebrew Bible in Greek (a translation known as the Septuagint) knew another reference of the word "εὐαγγέλιον": the book of Isaiah. In Isaiah 52:7 we read: 
+But those who read the Hebrew Bible in Greek (a translation known as the Septuagint) knew another reference of the word "εὐαγγέλιον": the book of Isaiah. In Isaiah 52:7 we read:
 
 > How beautiful upon the mountains
 >    are the feet of the messenger who announces peace,
@@ -18,7 +22,7 @@ But those who read the Hebrew Bible in Greek (a translation known as the Septuag
 >    who announces salvation,
 >    who says to Zion, “Your God reigns.”
 
-and in the beginning of Isaiah 61, which is the text that Jesus reads in the synagogue in Luke 4:16-30, 
+and in the beginning of Isaiah 61, which is the text that Jesus reads in the synagogue in Luke 4:16-30,
 
 >  The spirit of the Lord God is upon me
 >     because the Lord has anointed me;
@@ -34,9 +38,9 @@ Thus, the gospel in Isaiah is the message that "the Creator is, at last, taking 
 
 However, most of us have heard that the gospel is the message that "we're all sinners, but Jesus died in our place, so we get to go to heaven if we believe in him". But this, as N.T. Wright says, is a misreading of Romans:
 
-> It is a misreading, more particularly, of the beginning of Romans, because in Romans 1 verses three and four, Paul actually gives his definition of the gospel, and his definition of the gospel isn't about a mechanism whereby we can get saved, it is about the reality that Jesus, the Son of God, the descendant of the seed of David according to the flesh has now having been crucified, been designated Son of God in power according to the spirit of holiness by his resurrection from the dead and he is now the Lord of the world and he summons all people everywhere to live under his lordship. 
+> It is a misreading, more particularly, of the beginning of Romans, because in Romans 1 verses three and four, Paul actually gives his definition of the gospel, and his definition of the gospel isn't about a mechanism whereby we can get saved, it is about the reality that Jesus, the Son of God, the descendant of the seed of David according to the flesh has now having been crucified, been designated Son of God in power according to the spirit of holiness by his resurrection from the dead and he is now the Lord of the world and he summons all people everywhere to live under his lordship.
 
-Having clarified the definition of the Gospel, let us consider two fundamental themes of the New Testament that help us grasp its meaning. 
+Having clarified the definition of the Gospel, let us consider two fundamental themes of the New Testament that help us grasp its meaning.
 
 ### Cosmic Restoration (Apokatastasis)
 
@@ -46,7 +50,7 @@ One of the most beautiful passages of the New Testament, which helps us grasp th
 
 > God has made known to us the mystery of his will, according to his good pleasure that he set forth in Christ, as a plan for the fullness of time, to gather up all things in him, things in heaven and things on earth.
 
-Here, we see that the Gospel is the message that, in Christ, God was reconciling with himself everything. In Greek, "ανακεφαλαιωσασθαι τα παντα εν τω χριστω". This long word, "Anakephalaiosastai", means to gather up, to sum up. And God is gathering under Christ "τα παντα", which means "everything". 
+Here, we see that the Gospel is the message that, in Christ, God was reconciling with himself everything. In Greek, "ανακεφαλαιωσασθαι τα παντα εν τω χριστω". This long word, "Anakephalaiosastai", means to gather up, to sum up. And God is gathering under Christ "τα παντα", which means "everything".
 
 In Acts 3:21 we meet another Greek word related to this: "Apokatastasis". The expression here is "αποκαταστασεως παντων", which means "universal restoration" (as the NRSV puts it), the restitution of all things.
 
@@ -62,11 +66,11 @@ And in 2 Peter 1:4 we read:
 
 > Thus he has given us, through these things, his precious and very great promises, so that through them you may escape from the corruption that is in the world because of lust and may become *participants of the divine nature*.
 
-As Saint Irenaeus wrote (Against Heresies III.19.1), 
+As Saint Irenaeus wrote (Against Heresies III.19.1),
 
 > For it was for this end that the Word of God was made man, and He who was the Son of God became the Son of man, that man, having been taken into the Word, and receiving the adoption, might become the son of God.
 
-Or, in the famous quote from Saint Athanasius' treatise "On Incarnation", "God became man that man might become God". The phrase is popular in the writings of the Church Fathers, also appearing in St. Gregory of Nyssa, St. Maximus the Confessor, St. Augustine, and many others. 
+Or, in the famous quote from Saint Athanasius' treatise "On Incarnation", "God became man that man might become God". The phrase is popular in the writings of the Church Fathers, also appearing in St. Gregory of Nyssa, St. Maximus the Confessor, St. Augustine, and many others.
 
 The idea, of course, is not to deny the ontological difference between God and humanity, but to point out that the Gospel is not something to only reason about, a logical proposition with which we must agree, but a mystical reality that we must enter in silence and contemplation.
 
@@ -78,7 +82,7 @@ Having the full perspective that the Gospel is about cosmic reconciliation and a
 
 If we follow the Apostles, the Church's presentation of the Gospel should not be a personal invitation, like a marketing campaign, but the proclamation of the new reality (see 1 Corinthians 12:3, Romans 10:9-13, Philippians 2:11).
 
-Furthermore, as [Jürgen Moltmann](https://postbarthian.com/2017/04/26/jurgen-moltmann-accept-jesus-savior-diminishes-gospel/) said, "'I accept Jesus as my savior' diminishes the Gospel into an introverted and self-centered individualism." Under this formula, which does not appear anywhere in the Bible, "the gospel becomes indistinguishable from atheism because it makes the individual the ultimately determiner of their own destiny." ([Wyatt Houtz](https://postbarthian.com/2019/02/12/you-will-not-be-saved-unless-you-make-your-own-personal-decision-for-jesus-christ-as-savior-is-a-false-gospel-t-f-torrance/)) 
+Furthermore, as [Jürgen Moltmann](https://postbarthian.com/2017/04/26/jurgen-moltmann-accept-jesus-savior-diminishes-gospel/) said, "'I accept Jesus as my savior' diminishes the Gospel into an introverted and self-centered individualism." Under this formula, which does not appear anywhere in the Bible, "the gospel becomes indistinguishable from atheism because it makes the individual the ultimately determiner of their own destiny." ([Wyatt Houtz](https://postbarthian.com/2019/02/12/you-will-not-be-saved-unless-you-make-your-own-personal-decision-for-jesus-christ-as-savior-is-a-false-gospel-t-f-torrance/))
 
 In fact, this is a heresy known as semi-Pelagianism and is a misunderstanding of "Justification by Faith Alone". Notice that the text that inspires the doctrine of justification by faith, Romans 5, is not about individual faith. The Greek word here is "πιστεως", from "Pistis". It does not mean belief, as I believe in the proposition "one plus one equals two", but something completely different: *pistis* means faithfulness and trust. Thus, it is not our belief that saves us, it is Christ's faithfulness that redeems us. As Paul explains in verse nine, we are "justified by his blood", and "saved *through* him".
 
