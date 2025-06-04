@@ -11,7 +11,6 @@ tags = [
 
 > Listen carefully, my son, to the master’s instructions, and attend to them with the ear of your heart. (Rule of St. Benedict, Prologue)
 
-\noindent
 In his book "Digital Minimalism", Cal Newport emphasises the importance of solitude, which he defines as a "subjective state in which your mind is free from input from other minds". But why is a book about productivity talking about an ancient spiritual discipline? "When you avoid solitude", Cal writes, "you miss out on the positive things it brings you: the ability to clarify hard problems, to regulate your emotions, to build moral courage, and to strengthen relationships". It is interesting that the deprivation of solitude not only affects your productivity but also your whole being. However, reading this passage from "Digital Minimalism" made me realise that our current search for productivity is, in fact, a spiritual aspiration.
 
 Another giant in the productivity world is Tiago Forte and his book "Building a Second Brain". The "second brain" theme has sprawled over several branches, such as the Zettelkasten method, digital gardens, and software like Obsidian and Roam Research. The promise is that, if you store your thoughts correctly, creating a "perfect memory", you will achieve productivity nirvana. This is similar to the dream that AI one day will be able to replace you in all your menial human tasks, leaving your time to be dedicated to higher aspirations, "and ye shall be as gods".
