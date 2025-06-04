@@ -7,7 +7,7 @@ tags = [
 ]
 +++
 
-![A portrait of Saint Benedict as depicted in the Benedetto Portinari Triptych, by Hans Memling](<Images/St_Benedict_Hans_Memling.jpg>)
+![A portrait of Saint Benedict as depicted in the Benedetto Portinari Triptych, by Hans Memling](<images/St_Benedict_Hans_Memling.jpg>)
 
 > Listen carefully, my son, to the master’s instructions, and attend to them with the ear of your heart. (Rule of St. Benedict, Prologue)
 
