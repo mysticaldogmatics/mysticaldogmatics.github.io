@@ -17,7 +17,7 @@ This brief text explores the meaning of the word "Gospel". We start by showing h
 
 The word "gospel" from the Greek "εὐαγγέλιον", which means "good news". In Jesus' time, this word was commonly known. The gospel was the message that the emperor brought peace (i.e. conquered militarily) to some land. Of course that wasn't good news for the conquered people, such as the Jews.
 
-![Calendar Inscription of Priene](<images/202309101225_Calendar_Inscription_of_Priene.bmp>)
+![Calendar Inscription of Priene](static/images/202309101225_Calendar_Inscription_of_Priene.bmp)
 
 But those who read the Hebrew Bible in Greek (a translation known as the Septuagint) knew another reference of the word "εὐαγγέλιον": the book of Isaiah. In Isaiah 52:7 we read:
 
